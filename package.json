@@ -9,6 +9,9 @@
     "build": "rimraf dist && tsup index.ts --dts --format cjs,esm",
     "lint": "eslint"
   },
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com:HikaruEgashira/vite-plugin-aspida.git"
