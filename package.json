@@ -1,5 +1,5 @@
 {
-  "name": "vite-plugin-vite",
+  "name": "vite-plugin-aspida",
   "version": "0.1.0",
   "description": "aspida for Vite ⚡️",
   "main": "dist/index.js",
