@@ -11,10 +11,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: 14
-      - name: Install deps and build (with cache)
-        uses: bahmutov/npm-install@v1
-      - name: Test
-        run: yarn test --ci --coverage --maxWorkers=2
+      - uses: bahmutov/npm-install@v1
       - uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.NPM_TOKEN }}
