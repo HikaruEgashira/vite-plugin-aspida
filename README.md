@@ -2,6 +2,8 @@
 
 aspida & openapi2aspida for Vite.
 
+example: <https://github.com/egahika-sandbox/firebase-vite>
+
 ## Install
 
 ```bash
