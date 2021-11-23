@@ -7882,10 +7882,10 @@ tslib@~2.2.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.2.0.tgz#fb2c475977e35e241311ede2693cee1ec6698f5c"
   integrity sha512-gS9GVHRU+RGn5KQM2rllAlR3dU6m7AcpJKdtH8gFvQiC4Otgk98XnmMU+nZenHt/+VhnBPWwgrJsyrdcw6i23w==
 
-tsup@5.8.0:
-  version "5.8.0"
-  resolved "https://registry.yarnpkg.com/tsup/-/tsup-5.8.0.tgz#092b52c23034ac9ddf661d882296a7292789ece4"
-  integrity sha512-cg87uof0dumoSMN/UddkelOstg9o+/yBK3g7NAmnbyJQCdTMiRocNfRZdF8+EpYpZ/kpCwUMMsvMCilMDWz5Rg==
+tsup@5.9.0:
+  version "5.9.0"
+  resolved "https://registry.yarnpkg.com/tsup/-/tsup-5.9.0.tgz#e6faac1cb16df2452b03644eef00089cc3bfb493"
+  integrity sha512-GAu+q/x2e/PM0owEEtNIYIfK0U8FZkaredZP+zX4pLoc3t8UEnK9MDCIhhbWjZXvXi+VKD13rQ0+loIFRrHpkQ==
   dependencies:
     cac "^6.7.2"
     chalk "^4.1.0"
