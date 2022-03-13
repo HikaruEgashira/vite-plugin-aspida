@@ -2351,6 +2351,16 @@ aspida@^1.7.1:
     form-data "^4.0.0"
     minimist "^1.2.5"
 
+aspida@^1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/aspida/-/aspida-1.9.0.tgz#af74dd2b3d57b42ea42794fe3713317ada0e7795"
+  integrity sha512-R5NAejLGVwnoGTfiY0VQfkoHjPvI+3QRP+kYsGDVTu1epy07cryB/QKaaiWyc/ILh6AaIBQroafBTO371r6K2g==
+  dependencies:
+    "@types/minimist" "^1.2.2"
+    chokidar "^3.5.1"
+    form-data "^4.0.0"
+    minimist "^1.2.5"
+
 assign-symbols@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/assign-symbols/-/assign-symbols-1.0.0.tgz#59667f41fadd4f20ccbc2bb96b8d4f7f78ec0367"
@@ -6453,16 +6463,16 @@ openapi-types@^9.1.0:
   resolved "https://registry.yarnpkg.com/openapi-types/-/openapi-types-9.1.0.tgz#a2ab0acc5198c1725f83d7cbe063efd1bcd0479e"
   integrity sha512-mhXh8QN8sbErlxfxBeZ/pzgvmDn443p8CXlxwGSi2bWANZAFvjLPI0PoGjqHW+JdBbXg6uvmvM81WXaweh/SVA==
 
-openapi2aspida@^0.17.0:
-  version "0.17.0"
-  resolved "https://registry.yarnpkg.com/openapi2aspida/-/openapi2aspida-0.17.0.tgz#88885f9419cb1c17f77ece56cb8b913e01bd23b7"
-  integrity sha512-cRmp5HAkX6RPETpVb6oUlcS+baZ69bom500W0RBSucXSc7u3H3Eq28+gymH06Vz8uV8TI6qYf4paMtgj1JugIw==
+openapi2aspida@^0.19.0:
+  version "0.19.0"
+  resolved "https://registry.yarnpkg.com/openapi2aspida/-/openapi2aspida-0.19.0.tgz#ba9d139fa33e97170e4b3b39121b07b85013b059"
+  integrity sha512-CV6diNSlLrRak87oDHWpxrHbr1e7yPXzhSNGNFw2NGnk4iadNGoRs/c9IFS1EHDpJSw0QbnIxIHm4lSdKoavdw==
   dependencies:
-    aspida "^1.7.1"
+    aspida "^1.9.0"
     fs-extra "^10.0.0"
     js-yaml "^4.1.0"
     openapi-types "^9.1.0"
-    swagger-parser "^10.0.2"
+    swagger-parser "^10.0.3"
     swagger2openapi "^7.0.8"
 
 optionator@^0.9.1:
@@ -8153,7 +8163,7 @@ svg-tags@^1.0.0:
   resolved "https://registry.yarnpkg.com/svg-tags/-/svg-tags-1.0.0.tgz#58f71cee3bd519b59d4b2a843b6c7de64ac04764"
   integrity sha1-WPcc7jvVGbWdSyqEO2x95krAR2Q=
 
-swagger-parser@^10.0.2:
+swagger-parser@^10.0.3:
   version "10.0.3"
   resolved "https://registry.yarnpkg.com/swagger-parser/-/swagger-parser-10.0.3.tgz#04cb01c18c3ac192b41161c77f81e79309135d03"
   integrity sha512-nF7oMeL4KypldrQhac8RyHerJeGPD1p2xDh900GPvc+Nk7nWP6jX2FcC7WmkinMoAmoO774+AFXcWsW8gMWEIg==
