@@ -26,7 +26,7 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
-    "@types/node": "16.18.3",
+    "@types/node": "18.11.8",
     "@types/rimraf": "3.0.2",
     "eslint": "8.26.0",
     "eslint-config-hardcore": "25.1.0",
