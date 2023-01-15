@@ -23,7 +23,7 @@
     "aspida": "^1.7.1",
     "chalk": "^5.0.0",
     "openapi2aspida": "^0.21.0",
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.0.0"
   },
   "devDependencies": {
     "@types/node": "18.11.8",
