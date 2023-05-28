@@ -13,7 +13,7 @@ jobs:
           node-version: 14
       - uses: bahmutov/npm-install@v1
       - run: yarn build
-      - uses: JS-DevTools/npm-publish@v1
+      - uses: JS-DevTools/npm-publish@v2
         with:
           token: ${{ secrets.NPM_TOKEN }}
           access: public
