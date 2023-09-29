@@ -26,12 +26,12 @@
     "rimraf": "^3.0.2"
   },
   "devDependencies": {
-    "@types/node": "18.11.8",
+    "@types/node": "18.18.1",
     "@types/rimraf": "3.0.2",
-    "eslint": "8.26.0",
-    "eslint-config-hardcore": "25.1.0",
-    "tsup": "6.3.0",
-    "typescript": "4.8.4",
+    "eslint": "8.50.0",
+    "eslint-config-hardcore": "25.2.0",
+    "tsup": "6.7.0",
+    "typescript": "4.9.5",
     "vite": "3.2.7"
   },
   "peerDependencies": {
